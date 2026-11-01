@@ -76,5 +76,20 @@ Data modelling was performed in Power BI to establish relationships between the 
 
 The data model helped organise the data and enabled analysis across different departments and employees.
 
+## DAX Measures
+
+DAX (Data Analysis Expressions) was used in Power BI to create measures for payroll calculations and business analysis.
+
+The following measures were created:
+
+- **Total Gross Payroll:** Calculates the total gross salary paid to employees.
+- **Total Net Payroll:** Calculates the total net salary received by employees.
+- **Total Deductions:** Calculates the total deductions from employee salaries.
+- **Average Gross Salary:** Calculates the average gross salary of employees.
+- **Total Employees:** Calculates the total employee headcount.
+
+These measures were used to display key payroll metrics and support interactive data analysis.
+
+
 
 
