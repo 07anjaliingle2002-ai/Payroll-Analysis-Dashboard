@@ -108,6 +108,18 @@ Focuses on analysing payroll distribution across different departments. It helps
 ### 3. Employee Analysis
 Provides an employee-level view of payroll information to support analysis of individual employee compensation and salary distribution.
 
+## Key Insights
+
+The dashboard enables users to:
+
+- Monitor overall gross and net payroll expenses.
+- Understand the total deductions from employee salaries.
+- Evaluate average gross salary and employee headcount.
+- Compare payroll distribution across departments.
+- Explore employee-level compensation details.
+- Identify payroll patterns through interactive visualizations.
+- Use slicers to filter and analyse payroll information from different perspectives.
+
 
 
 
