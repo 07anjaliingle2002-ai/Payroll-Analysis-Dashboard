@@ -7,3 +7,17 @@ The Payroll Analysis Dashboard is a data analytics project developed using Micro
 The purpose of this project is to analyse employee payroll data and understand salary expenses, deductions, and net payroll distribution.
 
 This dashboard helps users monitor payroll information and gain meaningful insights into employee compensation.
+
+## Business Objectives
+
+The main objectives of this project are:
+
+- Analyse total gross payroll and net payroll.
+- Understand total employee deductions.
+- Calculate average employee salary.
+- Monitor employee headcount.
+- Analyse payroll expenses across departments.
+- Identify patterns and trends in employee compensation.
+- Present payroll information through interactive visualizations.
+
+- 
