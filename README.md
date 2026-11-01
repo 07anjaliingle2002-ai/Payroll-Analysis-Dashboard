@@ -90,6 +90,24 @@ The following measures were created:
 
 These measures were used to display key payroll metrics and support interactive data analysis.
 
+## Dashboard Pages
+
+The Power BI dashboard consists of three interactive pages:
+
+### 1. Payroll Overview
+Provides a summary of overall payroll performance using key performance indicators (KPIs), including:
+- Total Gross Payroll
+- Total Net Payroll
+- Total Deductions
+- Average Gross Salary
+- Total Employees
+
+### 2. Department Analysis
+Focuses on analysing payroll distribution across different departments. It helps compare salary expenses and understand departmental payroll patterns.
+
+### 3. Employee Analysis
+Provides an employee-level view of payroll information to support analysis of individual employee compensation and salary distribution.
+
 
 
 
