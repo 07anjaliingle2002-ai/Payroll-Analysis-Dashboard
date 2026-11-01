@@ -134,10 +134,10 @@ This project helped develop practical skills in data analysis, data visualizatio
 payroll overview1.png
 
 ### Department Analysis
-![Department Analysis](Department-Analysis.png)
+deptanalysis.png
 
 ### Employee Analysis
-![Employee Analysis](Employee-Analysis.png)
+emp analysisi.png
 
 
 
