@@ -120,6 +120,13 @@ The dashboard enables users to:
 - Identify payroll patterns through interactive visualizations.
 - Use slicers to filter and analyse payroll information from different perspectives.
 
+## Conclusion
+
+This Payroll Analysis Dashboard project demonstrates the use of Microsoft Power BI for analysing employee payroll data.
+
+Through data cleaning, data modelling, DAX measures, and interactive visualizations, the project provides a structured view of payroll expenses, departmental distribution, and employee compensation.
+
+This project helped develop practical skills in data analysis, data visualization, and business intelligence reporting.
 
 
 
