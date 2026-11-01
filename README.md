@@ -65,5 +65,16 @@ The following steps were carried out:
 
 These steps helped improve data quality and prepare the dataset for analysis.
 
+## Data Modelling
+
+Data modelling was performed in Power BI to establish relationships between the three tables.
+
+- Connected the Employees, Payroll, and Department tables.
+- Created relationships using the relevant employee and department keys.
+- Used the data model to combine information from multiple tables.
+- Ensured the relationships supported accurate payroll analysis and reporting.
+
+The data model helped organise the data and enabled analysis across different departments and employees.
+
 
 
