@@ -48,4 +48,22 @@ Contains department-related information used for analysing payroll across differ
 
 These tables are used together to analyse employee compensation and payroll expenses.
 
+## Data Cleaning & Transformation
+
+Data cleaning and transformation were performed using Power Query in Microsoft Power BI.
+
+The following steps were carried out:
+
+- Checked column names and corrected inconsistencies.
+- Verified and corrected data types.
+- Identified and handled missing values.
+- Removed unnecessary columns where required.
+- Checked for duplicate records.
+- Used Trim and Clean transformations to remove unwanted spaces and characters.
+- Ensured numerical columns had appropriate data types.
+- Applied the transformations before loading the data into Power BI.
+
+These steps helped improve data quality and prepare the dataset for analysis.
+
+
 
