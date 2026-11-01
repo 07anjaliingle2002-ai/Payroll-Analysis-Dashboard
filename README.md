@@ -27,4 +27,25 @@ The main objectives of this project are:
 - **DAX (Data Analysis Expressions):** Used to create calculated measures and perform payroll calculations.
 - **Microsoft Excel:** Used as the source of payroll and employee data.
 
-- 
+- ## Dataset Description
+
+This project uses employee and payroll-related data organised into three tables:
+
+### 1. Employees Table
+Contains employee-related information such as:
+- Employee ID
+- Employee Name
+- Department
+
+### 2. Payroll Table
+Contains payroll and salary-related information such as:
+- Gross Pay
+- Net Pay
+- Deductions
+
+### 3. Department Table
+Contains department-related information used for analysing payroll across different departments.
+
+These tables are used together to analyse employee compensation and payroll expenses.
+
+
