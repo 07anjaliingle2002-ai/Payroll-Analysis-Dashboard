@@ -20,4 +20,11 @@ The main objectives of this project are:
 - Identify patterns and trends in employee compensation.
 - Present payroll information through interactive visualizations.
 
+- ## Tools & Technologies Used
+
+- **Microsoft Power BI:** Used to create the interactive payroll dashboard.
+- **Power Query:** Used for data cleaning and transformation.
+- **DAX (Data Analysis Expressions):** Used to create calculated measures and perform payroll calculations.
+- **Microsoft Excel:** Used as the source of payroll and employee data.
+
 - 
