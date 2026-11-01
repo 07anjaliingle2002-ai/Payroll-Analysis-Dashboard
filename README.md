@@ -128,5 +128,18 @@ Through data cleaning, data modelling, DAX measures, and interactive visualizati
 
 This project helped develop practical skills in data analysis, data visualization, and business intelligence reporting.
 
+## Dashboard Screenshots
+
+### Payroll Overview
+payroll overview1.png
+
+### Department Analysis
+![Department Analysis](Department-Analysis.png)
+
+### Employee Analysis
+![Employee Analysis](Employee-Analysis.png)
+
+
+
 
 
